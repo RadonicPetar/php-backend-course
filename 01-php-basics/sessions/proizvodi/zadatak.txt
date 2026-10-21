@@ -1,0 +1,37 @@
+cd Potrebno je izraditi web aplikaciju u PHP-u koja omogućuje unos i upravljanje podacima o proizvodima koristeći session varijable.
+
+Aplikacija treba omogućiti unos sljedećih podataka o proizvodu:
+
+ID
+naziv
+količina
+cijena
+slika proizvoda
+
+Uneseni podaci trebaju se spremati u session varijablu $_SESSION["proizvodi"], pri čemu se svaki proizvod sprema kao jedan element u nizu.
+
+Na početnoj stranici potrebno je:
+
+prikazati formu za unos proizvoda
+prikazati sve trenutno unesene proizvode iz session varijable u obliku HTML tablice
+uz svaki proizvod prikazati i njegovu sliku (spremljenu u odgovarajući direktorij)
+
+Slike koje korisnik učita potrebno je spremati u direktorij slike/.
+
+Aplikacija treba sadržavati navigacijski izbornik s nekoliko linkova (npr. početna stranica, ispis iz datoteke, spremanje i brisanje sessiona).
+
+Potrebno je implementirati funkcionalnost za:
+
+spremanje svih podataka iz session varijable u JSON datoteku proizvodi.json unutar direktorija storage/
+uništavanje sessiona (brisanje svih podataka iz session varijable)
+
+Nakon uništavanja sessiona potrebno je prikazati link koji omogućuje dohvat i prikaz podataka iz JSON datoteke.
+
+Na posebnoj stranici potrebno je:
+
+učitati podatke iz datoteke proizvodi.json
+prikazati ih u HTML tablici zajedno sa slikama
+
+Za izgled stranice koristiti jednostavan (minimalistički) CSS.
+
+Nadogradnja: potrebno je napraviti ažuriranje i brisanje proizvoda iz spremljenog sessiona.

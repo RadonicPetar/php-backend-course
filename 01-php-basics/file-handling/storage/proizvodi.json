@@ -1,0 +1,22 @@
+{
+    "111": {
+        "naziv": "Jabuka",
+        "kolicina": 100,
+        "cijena": 2.45
+    },
+    "222": {
+        "naziv": "Banana",
+        "kolicina": 150,
+        "cijena": 1.43
+    },
+    "333": {
+        "naziv": "Kruška",
+        "kolicina": 250,
+        "cijena": 2.59
+    },
+    "444": {
+        "naziv": "Ananas",
+        "kolicina": 2500,
+        "cijena": 20.59
+    }
+}

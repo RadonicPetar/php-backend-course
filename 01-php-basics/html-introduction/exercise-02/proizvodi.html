@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="hr">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>WebShop - početna stranica</title>
+        <link rel="stylesheet" href="css/stil.css">
+    </head>
+    <body>
+        <header>
+            <h1>WebShop</h1>
+            <p>Dobro došli na našu web trgovinu</p>
+        </header>
+
+        <nav>
+            <a href="index.html">Početna</a>
+            <a href="kategorije.html">Kategorije</a>
+            <a href="opisnekategorije.html">Opisne kategorije</a>
+            <a href="proizvodi.html" class="active">Proizvodi</a>
+            <a href="kontakt.html">Kontakt</a>
+        </nav>
+
+        <main>
+            <h2>Popis proizvoda</h2>
+
+            <table>
+                <thead>
+                    <tr>
+                        <th>Naziv</th>
+                        <th>Kategorija</th>
+                        <th>Količina</th>
+                        <th>cijena</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Laptop</td>
+                        <td>Elektronika</td>
+                        <td class="sredina">50</td>
+                        <td class="valuta">1.200,00 €</td>
+                    </tr>
+                    <tr>
+                        <td>Majica</td>
+                        <td>Odjeća</td>
+                        <td class="sredina">170</td>
+                        <td class="valuta">25,00 €</td>
+                    </tr>                    
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="3" class="zbroj">Ukupno:</td>
+                        <td class="valuta zbroj">1.225,00 €</td>
+                    </tr>
+                </tfoot>
+            </table>
+            <p>
+                <a href="unosproizvoda.html" class="gumb">Dodaj novi proizvod</a>
+            </p>
+        </main>
+
+        <footer>
+            Copyright &copy; 2026 WebShop | Sva prava pridržana
+        </footer>
+    </body>
+</html>

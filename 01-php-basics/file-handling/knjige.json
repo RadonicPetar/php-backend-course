@@ -1,0 +1,23 @@
+[
+    {
+        "naziv": "PHP programiranje",
+        "autor": "Oliver Code",
+        "stranice": 252,
+        "godina": 2022,
+        "datumzapis": "2026-03-17 18:14:50"
+    },
+    {
+        "naziv": "PHP napredno programiranje",
+        "autor": "Michael Doyle",
+        "stranice": 300,
+        "godina": 2022,
+        "datumzapis": "2026-03-17 18:14:58"
+    },
+    {
+        "naziv": "Baze podataka",
+        "autor": "Elizabeth Tylor",
+        "stranice": 423,
+        "godina": 2010,
+        "datumzapis": "2026-03-15 18:14:58"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "ime": "Pero Perić",
+        "godine": "35",
+        "grad": "Rijeka",
+        "spol": "Muški",
+        "sportovi": "NogometRukometKošarka",
+        "slika": "uploads\/cavara_bih.jpg",
+        "opis": "Ovo je Pero Perić."
+    },
+    {
+        "id": 2,
+        "ime": "Ana Anić",
+        "godine": "22",
+        "grad": "Karlovac",
+        "spol": "Muški",
+        "sportovi": "OdbojkaKošarka",
+        "slika": "uploads\/milanovic_o_bih.jpg",
+        "opis": "Ovo je ana anić."
+    }
+]
