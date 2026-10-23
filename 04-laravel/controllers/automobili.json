@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "naziv": "Škoda",
+        "motor": "Dizel",
+        "godiste": 1983,
+        "registracija": "ZG-1838-DG",
+        "vlasnikid": 2
+    },
+    {
+        "id": 2,
+        "naziv": "Volkswagen",
+        "motor": "Benzin",
+        "godiste": 2005,
+        "registracija": "ZG-555-AA",
+        "vlasnikid": 2
+    },
+    {
+        "id": 3,
+        "naziv": "Renault",
+        "motor": "Dizel",
+        "godiste": 2012,
+        "registracija": "BJ-222-BB",
+        "vlasnikid": 1
+    },
+    {
+        "id": 4,
+        "naziv": "Kia Ceed",
+        "motor": "Dizel",
+        "godiste": 2010,
+        "registracija": "KA-456-GR",
+        "vlasnikid": 3
+    },
+    {
+        "id": 5,
+        "naziv": "BMW x5",
+        "motor": "Benzin",
+        "godiste": 2016,
+        "registracija": "ZD-397-AR",
+        "vlasnikid": 3
+    }
+]

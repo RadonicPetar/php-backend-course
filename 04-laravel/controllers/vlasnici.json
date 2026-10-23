@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "ime": "Ana",
+        "prezime": "Anić",
+        "datum_rod": "1990-07-12"
+    },
+    {
+        "id": 2,
+        "ime": "Pero",
+        "prezime": "Perić",
+        "datum_rod": "1975-03-18"
+    },
+    {
+        "id": 3,
+        "ime": "Dora",
+        "prezime": "Dorić",
+        "datum_rod": "2005-03-18"
+    }
+]

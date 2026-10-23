@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "naziv": "Jabuka",
+        "cijena": 2.5,
+        "kategorijaSifra": 1
+    },
+    {
+        "id": 2,
+        "naziv": "Mrkva",
+        "cijena": 3.5,
+        "kategorijaSifra": 2
+    },
+    {
+        "id": 3,
+        "naziv": "Banana",
+        "cijena": 2.99,
+        "kategorijaSifra": 1
+    },
+    {
+        "id": 4,
+        "naziv": "Ananas",
+        "cijena": 1.99,
+        "kategorijaSifra": 1
+    },
+    {
+        "id": 5,
+        "naziv": "Tipkovnica",
+        "cijena": 22,
+        "kategorijaSifra": 3
+    }
+]

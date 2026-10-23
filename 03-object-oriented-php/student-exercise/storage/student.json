@@ -1,0 +1,32 @@
+[
+    {
+        "ime": "Ana",
+        "prezime": "Anic",
+        "jmbag": "S002",
+        "godina": 3
+    },
+    {
+        "ime": "Marko",
+        "prezime": "Maric",
+        "jmbag": "S001",
+        "godina": 2
+    },
+    {
+        "ime": "Ana",
+        "prezime": "Anic",
+        "jmbag": "S002",
+        "godina": 3
+    },
+    {
+        "ime": "Pero",
+        "prezime": "Peric",
+        "jmbag": "S004",
+        "godina": 4
+    },
+    {
+        "ime": "Dora",
+        "prezime": "Doric",
+        "jmbag": "S005",
+        "godina": 5
+    }
+]

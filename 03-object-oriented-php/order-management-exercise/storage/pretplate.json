@@ -1,0 +1,17 @@
+[
+    {
+        "kupacid": "1",
+        "vrsta": "proizvod",
+        "pretplata": true
+    },
+    {
+        "kupacid": "2",
+        "vrsta": "usluga",
+        "pretplata": true
+    },
+    {
+        "kupacid": "5",
+        "vrsta": "proizvod",
+        "pretplata": true
+    }
+]

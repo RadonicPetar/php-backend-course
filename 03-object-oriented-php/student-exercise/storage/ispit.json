@@ -1,0 +1,27 @@
+[
+    {
+        "sifra": "P003",
+        "naziv": "JavaScript Osnove",
+        "datum": "2026-05-25"
+    },
+    {
+        "sifra": "P001",
+        "naziv": "PHP Osnove",
+        "datum": "2026-05-11"
+    },
+    {
+        "sifra": "P002",
+        "naziv": "MySQL Osnove",
+        "datum": "2026-05-15"
+    },
+    {
+        "sifra": "P003",
+        "naziv": "JavaScript Osnove",
+        "datum": "2026-05-25"
+    },
+    {
+        "sifra": "P004",
+        "naziv": "Osnove HTML-a",
+        "datum": "2026-04-23"
+    }
+]

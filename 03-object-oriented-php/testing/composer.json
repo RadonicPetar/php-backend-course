@@ -1,0 +1,17 @@
+{
+    "name": "krivi/tdd-projekt",
+    "autoload": {
+        "psr-4": {
+            "TDDProjekt\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mkrivic83",
+            "email": "krivic.milan@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    }
+}

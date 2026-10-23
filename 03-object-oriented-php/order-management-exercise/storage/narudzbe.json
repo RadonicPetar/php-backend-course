@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "datum_narudzbe": "2026-05-14 20:38:28",
+        "kolicina": 2,
+        "kupacid": 1,
+        "vrstaid": 1,
+        "vrsta": "proizvod"
+    },
+    {
+        "id": 2,
+        "datum_narudzbe": "2026-05-14 20:39:15",
+        "kolicina": 2,
+        "kupacid": 2,
+        "vrstaid": 2,
+        "vrsta": "usluga"
+    }
+]

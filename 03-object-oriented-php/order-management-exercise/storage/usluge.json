@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "naziv": "\u010ci\u0161\u0107enje",
+        "kolicina": 2,
+        "cijena": 60,
+        "vrsta": "usluga"
+    },
+    {
+        "id": 2,
+        "naziv": "Mentoriranje",
+        "kolicina": 2,
+        "cijena": 80,
+        "vrsta": "usluga"
+    }
+]

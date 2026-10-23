@@ -1,0 +1,142 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f3f5f7;
+    color: #222;
+    padding-bottom: 70px;
+}
+
+.container {
+    width: 90%;
+    max-width: 1100px;
+    margin: auto;
+}
+
+header {
+    background: #263747;
+    color: white;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0 0 15px 0;
+}
+
+nav {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    background: #3f5870;
+    padding: 10px 15px;
+    border-radius: 6px;
+}
+
+nav a:hover {
+    background: #5d7fa1;
+}
+
+.content {
+    background: white;
+    margin-top: 25px;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 0 12px rgba(0,0,0,0.08);
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: #263747;
+    color: white;
+    text-align: center;
+    padding: 18px 0;
+}
+
+h2 {
+    margin-top: 0;
+    color: #263747;
+}
+
+form {
+    width: 60%;
+    margin-bottom: 30px;
+}
+
+label {
+    display: block;
+    margin-top: 12px;
+    font-weight: bold;
+        width: 30%;
+}
+
+input,
+select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #bbb;
+    border-radius: 6px;
+}
+
+input[type="checkbox"]{
+    width: 30%;
+}
+
+button {
+    margin-top: 18px;
+    background: #263747;
+    color: white;
+    border: none;
+    padding: 12px 18px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #3f5870;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 25px;
+}
+
+table th,
+table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+table th {
+    background: #263747;
+    color: white;
+}
+
+.success {
+    padding: 12px;
+    background: #d4edda;
+    border: 1px solid #8fd19e;
+    color: #155724;
+    border-radius: 6px;
+    margin-bottom: 20px;
+}
+
+.error {
+    padding: 12px;
+    background: #f8d7da;
+    border: 1px solid #dc3545;
+    color: #842029;
+    border-radius: 6px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "naziv": "Tipkovnica",
+        "kolicina": 100,
+        "cijena": 50,
+        "vrsta": "proizvod"
+    },
+    {
+        "id": 2,
+        "naziv": "Monitor",
+        "kolicina": 20,
+        "cijena": 1000,
+        "vrsta": "proizvod"
+    },
+    {
+        "id": 3,
+        "naziv": "Laptop",
+        "kolicina": 100,
+        "cijena": 10,
+        "vrsta": "proizvod"
+    },
+    {
+        "id": 4,
+        "naziv": "Mi\u0161",
+        "kolicina": 100,
+        "cijena": 15.99,
+        "vrsta": "proizvod"
+    },
+    {
+        "id": 5,
+        "naziv": "Mi\u0161",
+        "kolicina": 100,
+        "cijena": 15.99,
+        "vrsta": "proizvod"
+    },
+    {
+        "id": 6,
+        "naziv": "Mi\u0161",
+        "kolicina": 100,
+        "cijena": 15.99,
+        "vrsta": "proizvod"
+    },
+    {
+        "id": 7,
+        "naziv": "Mre\u017eni adapter",
+        "kolicina": 140,
+        "cijena": 15.99,
+        "vrsta": "proizvod"
+    },
+    {
+        "id": 8,
+        "naziv": "Mre\u017eni adapter",
+        "kolicina": 140,
+        "cijena": 15.99,
+        "vrsta": "proizvod"
+    },
+    {
+        "id": 9,
+        "naziv": "Sklopka",
+        "kolicina": 250,
+        "cijena": 10.99,
+        "vrsta": "proizvod"
+    },
+    {
+        "id": 10,
+        "naziv": "Docking",
+        "kolicina": 150,
+        "cijena": 122,
+        "vrsta": "proizvod"
+    },
+    {
+        "id": 11,
+        "naziv": "Docking",
+        "kolicina": 150,
+        "cijena": 122,
+        "vrsta": "proizvod"
+    },
+    {
+        "id": 12,
+        "naziv": "Docking",
+        "kolicina": 150,
+        "cijena": 122,
+        "vrsta": "proizvod"
+    },
+    {
+        "id": 13,
+        "naziv": "Docking",
+        "kolicina": 150,
+        "cijena": 122,
+        "vrsta": "proizvod"
+    },
+    {
+        "id": 14,
+        "naziv": "Novi",
+        "kolicina": 100,
+        "cijena": 10,
+        "vrsta": "proizvod"
+    }
+]

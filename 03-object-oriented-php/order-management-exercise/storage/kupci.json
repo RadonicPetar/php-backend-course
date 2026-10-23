@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "naziv": "Makron d.o.o.",
+        "aktivan": true,
+        "email": "makron@mail.com"
+    },
+    {
+        "id": 2,
+        "naziv": "Lupo d.d.",
+        "aktivan": false,
+        "email": "lupo@mail.com"
+    },
+    {
+        "id": 3,
+        "naziv": "Lovro d.d.",
+        "aktivan": true,
+        "email": "lovro@mail.com"
+    },
+    {
+        "id": 4,
+        "naziv": "Diana j.d.o.o.",
+        "aktivan": false,
+        "email": "diana@mail.com"
+    },
+    {
+        "id": 5,
+        "naziv": "Eglo",
+        "aktivan": true,
+        "email": "egl.seminar@gmail.com"
+    }
+]

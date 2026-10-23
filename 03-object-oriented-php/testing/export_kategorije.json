@@ -1,0 +1,347 @@
+[
+    {
+        "id": 1,
+        "naziv": "Mobiteli",
+        "opis": "Pametni telefoni"
+    },
+    {
+        "id": 2,
+        "naziv": "Mobiteli",
+        "opis": "Pametni telefoni"
+    },
+    {
+        "id": 3,
+        "naziv": "Vrtlarstvo",
+        "opis": "Sve za dom"
+    },
+    {
+        "id": 4,
+        "naziv": "Mobiteli",
+        "opis": "Pametni telefoni"
+    },
+    {
+        "id": 5,
+        "naziv": "Vrtlarstvo",
+        "opis": "Sve za dom"
+    },
+    {
+        "id": 6,
+        "naziv": "Mobiteli",
+        "opis": "Pametni telefoni"
+    },
+    {
+        "id": 7,
+        "naziv": "Vrtlarstvo",
+        "opis": "Sve za dom"
+    },
+    {
+        "id": 8,
+        "naziv": "Mobiteli",
+        "opis": "Pametni telefoni"
+    },
+    {
+        "id": 9,
+        "naziv": "Vrtlarstvo",
+        "opis": "Sve za dom"
+    },
+    {
+        "id": 10,
+        "naziv": "Mobiteli",
+        "opis": "Pametni telefoni"
+    },
+    {
+        "id": 11,
+        "naziv": "Vrtlarstvo",
+        "opis": "Sve za dom"
+    },
+    {
+        "id": 12,
+        "naziv": "Mobiteli",
+        "opis": "Pametni telefoni"
+    },
+    {
+        "id": 13,
+        "naziv": "Monitori",
+        "opis": "Gaming monitori"
+    },
+    {
+        "id": 14,
+        "naziv": "Mobiteli",
+        "opis": "Pametni telefoni"
+    },
+    {
+        "id": 15,
+        "naziv": "Laptopi",
+        "opis": "Gaming laptopi"
+    },
+    {
+        "id": 17,
+        "naziv": "Monitori",
+        "opis": "Gaming monitori"
+    },
+    {
+        "id": 18,
+        "naziv": "Tipkovnice UPDATED",
+        "opis": "RGB tipkovnice"
+    },
+    {
+        "id": 19,
+        "naziv": "Laptopi",
+        "opis": "Gaming laptopi"
+    },
+    {
+        "id": 20,
+        "naziv": "Mobiteli",
+        "opis": "Pametni telefoni"
+    },
+    {
+        "id": 22,
+        "naziv": "Mobiteli",
+        "opis": "Pametni telefoni"
+    },
+    {
+        "id": 23,
+        "naziv": "Vrtlarstvo",
+        "opis": "Sve za dom"
+    },
+    {
+        "id": 24,
+        "naziv": "Vo\u0107e",
+        "opis": "Ovo je vo\u0107e"
+    },
+    {
+        "id": 25,
+        "naziv": "Mobiteli",
+        "opis": "Pametni telefoni"
+    },
+    {
+        "id": 28,
+        "naziv": "Mobiteli",
+        "opis": "Pametni telefoni"
+    },
+    {
+        "id": 29,
+        "naziv": "Vrtlarstvo",
+        "opis": "Sve za dom"
+    },
+    {
+        "id": 30,
+        "naziv": "Vo\u0107e",
+        "opis": "Ovo je vo\u0107e"
+    },
+    {
+        "id": 31,
+        "naziv": "Mobiteli",
+        "opis": "Pametni telefoni 27.05.2026 18:40:03"
+    },
+    {
+        "id": 32,
+        "naziv": "Vrtlarstvo",
+        "opis": "Sve za dom 27.05.2026 18:40:03"
+    },
+    {
+        "id": 34,
+        "naziv": "Mobiteli",
+        "opis": "Pametni telefoni 27.05.2026 18:42:07"
+    },
+    {
+        "id": 35,
+        "naziv": "Vrtlarstvo",
+        "opis": "Sve za dom 27.05.2026 18:42:07"
+    },
+    {
+        "id": 37,
+        "naziv": "Mobiteli",
+        "opis": "Pametni telefoni 27.05.2026 18:43:11"
+    },
+    {
+        "id": 38,
+        "naziv": "Vrtlarstvo",
+        "opis": "Sve za dom 27.05.2026 18:43:11"
+    },
+    {
+        "id": 40,
+        "naziv": "Mobiteli",
+        "opis": "Pametni telefoni 27.05.2026 18:43:50"
+    },
+    {
+        "id": 41,
+        "naziv": "Vrtlarstvo",
+        "opis": "Sve za dom 27.05.2026 18:43:50"
+    },
+    {
+        "id": 43,
+        "naziv": "Mobiteli",
+        "opis": "Pametni telefoni 27.05.2026 18:45:15"
+    },
+    {
+        "id": 44,
+        "naziv": "Vrtlarstvo",
+        "opis": "Sve za dom 27.05.2026 18:45:15"
+    },
+    {
+        "id": 46,
+        "naziv": "Mobiteli",
+        "opis": "Pametni telefoni 27.05.2026 18:45:28"
+    },
+    {
+        "id": 47,
+        "naziv": "Vrtlarstvo",
+        "opis": "Sve za dom 27.05.2026 18:45:28"
+    },
+    {
+        "id": 49,
+        "naziv": "Mobiteli",
+        "opis": "Pametni telefoni 27.05.2026 18:48:11"
+    },
+    {
+        "id": 50,
+        "naziv": "Vrtlarstvo",
+        "opis": "Sve za dom 27.05.2026 18:48:11"
+    },
+    {
+        "id": 52,
+        "naziv": "Povr\u0107e",
+        "opis": "Ovo je povr\u0107e 27.05.2026 18:48:11"
+    },
+    {
+        "id": 53,
+        "naziv": "Mobiteli",
+        "opis": "Pametni telefoni 27.05.2026 18:49:56"
+    },
+    {
+        "id": 54,
+        "naziv": "Vrtlarstvo",
+        "opis": "Sve za dom 27.05.2026 18:49:56"
+    },
+    {
+        "id": 56,
+        "naziv": "Povr\u0107e",
+        "opis": "Ovo je povr\u0107e 27.05.2026 18:49:56"
+    },
+    {
+        "id": 57,
+        "naziv": "Mobiteli",
+        "opis": "Pametni telefoni 27.05.2026 18:50:07"
+    },
+    {
+        "id": 58,
+        "naziv": "Vrtlarstvo",
+        "opis": "Sve za dom 27.05.2026 18:50:07"
+    },
+    {
+        "id": 60,
+        "naziv": "Povr\u0107e",
+        "opis": "Ovo je povr\u0107e 27.05.2026 18:50:07"
+    },
+    {
+        "id": 61,
+        "naziv": "Mobiteli",
+        "opis": "Pametni telefoni 27.05.2026 18:50:21"
+    },
+    {
+        "id": 62,
+        "naziv": "Vrtlarstvo",
+        "opis": "Sve za dom 27.05.2026 18:50:21"
+    },
+    {
+        "id": 64,
+        "naziv": "Povr\u0107e",
+        "opis": "Ovo je povr\u0107e 27.05.2026 18:50:21"
+    },
+    {
+        "id": 65,
+        "naziv": "Mobiteli",
+        "opis": "Pametni telefoni"
+    },
+    {
+        "id": 66,
+        "naziv": "Monitori",
+        "opis": "Gaming monitori"
+    },
+    {
+        "id": 67,
+        "naziv": "Mobiteli",
+        "opis": "Pametni telefoni"
+    },
+    {
+        "id": 68,
+        "naziv": "Laptopi",
+        "opis": "Gaming laptopi"
+    },
+    {
+        "id": 70,
+        "naziv": "Monitori",
+        "opis": "Gaming monitori"
+    },
+    {
+        "id": 71,
+        "naziv": "Tipkovnice UPDATED",
+        "opis": "RGB tipkovnice"
+    },
+    {
+        "id": 72,
+        "naziv": "Mobiteli",
+        "opis": "Opis 1"
+    },
+    {
+        "id": 73,
+        "naziv": "Mobiteli",
+        "opis": "Opis 2"
+    },
+    {
+        "id": 74,
+        "naziv": "Mobiteli",
+        "opis": "Opis 3"
+    },
+    {
+        "id": 75,
+        "naziv": "Mobiteli",
+        "opis": "Opis 4"
+    },
+    {
+        "id": 76,
+        "naziv": "Laptopi",
+        "opis": "Gaming laptopi"
+    },
+    {
+        "id": 77,
+        "naziv": "Mobiteli",
+        "opis": "Pametni telefoni"
+    },
+    {
+        "id": 78,
+        "naziv": "Mobiteli",
+        "opis": "Pametni telefoni 27.05.2026 19:06:48"
+    },
+    {
+        "id": 79,
+        "naziv": "Vrtlarstvo",
+        "opis": "Sve za dom 27.05.2026 19:06:48"
+    },
+    {
+        "id": 81,
+        "naziv": "Povr\u0107e",
+        "opis": "Ovo je povr\u0107e 27.05.2026 19:06:48"
+    },
+    {
+        "id": 82,
+        "naziv": "Tehnika UPDATED",
+        "opis": "Ovo je tehnika OPIS UPDATED"
+    },
+    {
+        "id": 83,
+        "naziv": "Laptopi",
+        "opis": "Gaming laptopi 27.05.2026 19:54:56"
+    },
+    {
+        "id": 84,
+        "naziv": "Laptopi",
+        "opis": "Gaming laptopi 27.05.2026 19:58:01"
+    },
+    {
+        "id": 85,
+        "naziv": "Mobiteli",
+        "opis": "Ovo je opis mobiteli 27.05.2026 20:07:16"
+    }
+]

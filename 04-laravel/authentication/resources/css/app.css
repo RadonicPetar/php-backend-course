@@ -1,0 +1,112 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.prikaz{
+    background-color: blue;
+}
+
+.profil{
+    padding: 20px;
+    margin: 20px;
+    background:white;
+    border: 1px solid #ddd;
+}
+
+.profil h3{
+    color: red; font-size: 24px;
+    text-decoration: underline;
+}
+
+.admin{
+    padding: 20px;
+    margin: 20px;
+    background: #ffeeee;
+    border: 1px solid red;
+}
+
+.note{
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+}
+
+.error{
+    padding: 20px;
+    margin: 20px;
+    background: #ffeeee;
+    border: 2px solid red;
+    border-radius: 5px;
+}
+
+.notes-container {
+    padding: 20px;
+    margin: 20px;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+}
+
+.notes-heading {
+    margin-bottom: 25px;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 10px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.notes-count {
+    color: #666;
+    margin-bottom: 25px;
+}
+
+.note-card {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    background: white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+}
+
+.note-title {
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #1f2937;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.note-date {
+    color: #666;
+    margin-bottom: 15px;
+    font-size: 14px;
+}
+
+.note-content {
+    line-height: 1.6;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.note-button {
+    display: inline-block;
+    background: #2563eb;
+    color: white;
+    padding: 10px 16px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.note-button:hover {
+    background: #1d4ed8;
+}
+
+.notes-empty {
+    background: #fff3cd;
+    border: 1px solid #ffe69c;
+    color: #664d03;
+    padding: 15px;
+    border-radius: 5px;
+}
